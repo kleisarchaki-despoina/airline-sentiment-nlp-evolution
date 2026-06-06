@@ -1,4 +1,4 @@
-# Twitter Airline Sentiment – Deep Learning ANN Classification Pipeline
+# Twitter Airline Sentiment â€“ Deep Learning ANN Classification Pipeline
 
 This repository features an advanced **Deep Learning** and **Natural Language Processing (NLP)** pipeline designed to classify public sentiment (Negative, Neutral, Positive) from the Twitter US Airline Sentiment dataset containing approximately 14,640 social media tweets.
 
@@ -20,7 +20,7 @@ The core architectural focus is to evaluate how distinct text embedding spaces i
 
 - `Classification with US Airline Sentiment Tweets_updated.ipynb` - The primary production-grade Jupyter Notebook containing the full Deep Learning pipeline.
 
-## ?? Tech Stack & Libraries
+## Tech Stack & Libraries
 - **Language:** Python
 - **Deep Learning Framework:** Keras / TensorFlow
 - **Natural Language Processing:** Gensim, Scikit-Learn
